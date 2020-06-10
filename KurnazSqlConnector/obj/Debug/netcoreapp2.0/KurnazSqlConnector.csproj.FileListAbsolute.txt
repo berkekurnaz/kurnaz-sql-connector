@@ -1,0 +1,8 @@
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\bin\Debug\netcoreapp2.0\KurnazSqlConnector.deps.json
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\bin\Debug\netcoreapp2.0\KurnazSqlConnector.dll
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\obj\Debug\netcoreapp2.0\KurnazSqlConnector.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\obj\Debug\netcoreapp2.0\KurnazSqlConnector.AssemblyInfoInputs.cache
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\obj\Debug\netcoreapp2.0\KurnazSqlConnector.AssemblyInfo.cs
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\bin\Debug\netcoreapp2.0\KurnazSqlConnector.pdb
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\obj\Debug\netcoreapp2.0\KurnazSqlConnector.dll
+C:\Users\Berke\source\repos\KurnazSqlConnector\KurnazSqlConnector\obj\Debug\netcoreapp2.0\KurnazSqlConnector.pdb

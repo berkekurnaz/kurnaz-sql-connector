@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KurnazSqlConnector", "KurnazSqlConnector\KurnazSqlConnector.csproj", "{E4DE6D4C-93C0-49CF-8867-14F6C672845A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApp", "TestApp\TestApp.csproj", "{76116DA9-1209-41CF-BD43-85F29587D152}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F8C9966-79D9-496A-B332-385B9FCF203D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DE6D4C-93C0-49CF-8867-14F6C672845A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DE6D4C-93C0-49CF-8867-14F6C672845A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4DE6D4C-93C0-49CF-8867-14F6C672845A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DE6D4C-93C0-49CF-8867-14F6C672845A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76116DA9-1209-41CF-BD43-85F29587D152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76116DA9-1209-41CF-BD43-85F29587D152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76116DA9-1209-41CF-BD43-85F29587D152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76116DA9-1209-41CF-BD43-85F29587D152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF0D0067-B93F-4366-892A-F70258D02594}
+	EndGlobalSection
+EndGlobal
